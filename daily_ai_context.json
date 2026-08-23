@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22 09:37:00",
-  "signal_date": "2026-08-22",
+  "generated_at": "2026-08-23 09:53:15",
+  "signal_date": "2026-08-23",
   "market_data_end_date": "2026-08-21",
   "source": "dashboard_live.csv",
   "risk_note": "仅供个人研究与复盘，不构成投资建议。",
@@ -11,7 +11,7 @@
     "dual_signal_count": 0,
     "sector_count": 44,
     "avg_dd60": 0.2872194792373569,
-    "avg_vol20": 0.030609473468039605,
+    "avg_vol20": 0.030609473468039616,
     "avg_chip_winner": 0.3099956426912189
   },
   "top_sectors": [
@@ -886,11 +886,11 @@
       "confirmed_count": 40,
       "average_score": 0.677055,
       "t5_sample_size": 1572,
-      "t5_average_return": 0.011165794919947885,
+      "t5_average_return": 0.011137056618862351,
       "t5_positive_rate": 0.5451653944020356,
-      "t20_sample_size": 724,
-      "t20_average_return": -0.0005231766901463283,
-      "t20_positive_rate": 0.5193370165745856,
+      "t20_sample_size": 726,
+      "t20_average_return": -9.256971025271893e-05,
+      "t20_positive_rate": 0.5206611570247934,
       "top_candidates": [
         {
           "stock_code": "300803.SZ",
@@ -1046,7 +1046,7 @@
       "confirmed_count": 9,
       "average_score": 0.9308947368421053,
       "t5_sample_size": 536,
-      "t5_average_return": 0.031575741087691095,
+      "t5_average_return": 0.03157574108769109,
       "t5_positive_rate": 0.6100746268656716,
       "t20_sample_size": 60,
       "t20_average_return": 0.058196355444524735,
@@ -1126,10 +1126,10 @@
       "confirmed_count": 20,
       "average_score": 0.91077,
       "t5_sample_size": 556,
-      "t5_average_return": 0.01370271223241146,
-      "t5_positive_rate": 0.5377697841726619,
+      "t5_average_return": 0.013941851656035176,
+      "t5_positive_rate": 0.539568345323741,
       "t20_sample_size": 62,
-      "t20_average_return": 0.028789488038984578,
+      "t20_average_return": 0.02827980115503336,
       "t20_positive_rate": 0.5806451612903226,
       "top_candidates": [
         {
@@ -1286,7 +1286,7 @@
       "confirmed_count": 0,
       "average_score": 0.9132499999999999,
       "t5_sample_size": 279,
-      "t5_average_return": -0.0007639568954791446,
+      "t5_average_return": -0.0007639568954791437,
       "t5_positive_rate": 0.4229390681003584,
       "t20_sample_size": 0,
       "t20_average_return": null,
@@ -1384,7 +1384,7 @@
     "expired_count": 3,
     "avg_current_return": 0.004434930245092894,
     "avg_max_return": 0.09727186794262457,
-    "avg_max_drawdown": -0.11722121045157631,
+    "avg_max_drawdown": -0.11722252959484068,
     "top_sector": "黄金",
     "top_sector_avg_return": 0.24181838359743263
   },
