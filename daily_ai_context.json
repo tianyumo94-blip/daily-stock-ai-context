@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02 01:11:55",
+  "generated_at": "2026-09-02 09:46:23",
   "signal_date": "2026-09-02",
   "market_data_end_date": "2026-09-01",
   "source": "dashboard_live.csv",
@@ -11,7 +11,7 @@
     "dual_signal_count": 8,
     "sector_count": 44,
     "avg_dd60": 0.2784526865783828,
-    "avg_vol20": 0.027027730747800335,
+    "avg_vol20": 0.027027730747800346,
     "avg_chip_winner": 0.3501149419670589
   },
   "top_sectors": [
@@ -1296,13 +1296,13 @@
   ],
   "market_risk": {
     "overall": {
-      "score": 48.539748664397784,
+      "score": 46.82381111841339,
       "band": "正常",
       "available": 6,
       "total": 6
     },
     "technology": {
-      "score": 44.223883263221666,
+      "score": 44.11619183311727,
       "band": "正常",
       "available": 4,
       "total": 4
