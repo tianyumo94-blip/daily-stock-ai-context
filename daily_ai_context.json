@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05 09:40:26",
-  "signal_date": "2026-09-05",
+  "generated_at": "2026-09-06 09:39:34",
+  "signal_date": "2026-09-06",
   "market_data_end_date": "2026-09-04",
   "source": "dashboard_live.csv",
   "risk_note": "仅供个人研究与复盘，不构成投资建议。",
@@ -11,7 +11,7 @@
     "dual_signal_count": 7,
     "sector_count": 48,
     "avg_dd60": 0.2716836172753554,
-    "avg_vol20": 0.027195996926608953,
+    "avg_vol20": 0.027195996926608956,
     "avg_chip_winner": 0.32805345615476617
   },
   "top_sectors": [
@@ -886,10 +886,10 @@
       "confirmed_count": 40,
       "average_score": 0.7398775000000001,
       "t5_sample_size": 2007,
-      "t5_average_return": 0.012706371055138409,
-      "t5_positive_rate": 0.5555555555555556,
+      "t5_average_return": 0.012786469535716655,
+      "t5_positive_rate": 0.5560538116591929,
       "t20_sample_size": 1438,
-      "t20_average_return": 0.03841710575147746,
+      "t20_average_return": 0.03846007289280566,
       "t20_positive_rate": 0.6446453407510431,
       "top_candidates": [
         {
@@ -1010,7 +1010,7 @@
       "t5_average_return": 0.022098275045133706,
       "t5_positive_rate": 0.5852417302798982,
       "t20_sample_size": 405,
-      "t20_average_return": 0.05731275421250432,
+      "t20_average_return": 0.05731275421250433,
       "t20_positive_rate": 0.7382716049382716,
       "top_candidates": [
         {
@@ -1087,10 +1087,10 @@
       "confirmed_count": 20,
       "average_score": 0.9008649999999999,
       "t5_sample_size": 815,
-      "t5_average_return": 0.011938827815010527,
+      "t5_average_return": 0.011992643624064861,
       "t5_positive_rate": 0.5226993865030675,
       "t20_sample_size": 418,
-      "t20_average_return": 0.0179702292288779,
+      "t20_average_return": 0.01811654449936154,
       "t20_positive_rate": 0.48086124401913877,
       "top_candidates": [
         {
@@ -1247,7 +1247,7 @@
       "confirmed_count": 0,
       "average_score": 0.92975,
       "t5_sample_size": 537,
-      "t5_average_return": -0.009010632314809208,
+      "t5_average_return": -0.00901063231480921,
       "t5_positive_rate": 0.40409683426443205,
       "t20_sample_size": 140,
       "t20_average_return": 0.031010693603296842,
