@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25 10:52:10",
-  "signal_date": "2026-09-25",
+  "generated_at": "2026-09-26 12:10:16",
+  "signal_date": "2026-09-26",
   "market_data_end_date": "2026-09-24",
   "source": "dashboard_live.csv",
   "risk_note": "仅供个人研究与复盘，不构成投资建议。",
@@ -886,10 +886,10 @@
       "confirmed_count": 11,
       "average_score": 0.7529545454545453,
       "t5_sample_size": 2587,
-      "t5_average_return": 0.012331720842538654,
+      "t5_average_return": 0.012331720842538653,
       "t5_positive_rate": 0.5438732122149208,
       "t20_sample_size": 1887,
-      "t20_average_return": 0.031216624915908923,
+      "t20_average_return": 0.03121662491590892,
       "t20_positive_rate": 0.5998940116587176,
       "top_candidates": [
         {
@@ -1151,13 +1151,13 @@
   ],
   "market_risk": {
     "overall": {
-      "score": 45.52776794023582,
+      "score": 45.5084380433286,
       "band": "正常",
       "available": 6,
       "total": 6
     },
     "technology": {
-      "score": 61.54016545518864,
+      "score": 67.19625166547421,
       "band": "偏热",
       "available": 4,
       "total": 4
