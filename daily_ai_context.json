@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06 20:24:21",
+  "generated_at": "2026-10-07 09:38:39",
   "signal_date": "2026-09-30",
   "market_data_end_date": "2026-09-30",
   "source": "dashboard_live.csv",
@@ -806,10 +806,10 @@
       "confirmed_count": 0,
       "average_score": null,
       "t5_sample_size": 2771,
-      "t5_average_return": 0.00853909261469228,
+      "t5_average_return": 0.008539092614692281,
       "t5_positive_rate": 0.517502706604114,
       "t20_sample_size": 2087,
-      "t20_average_return": 0.02405078913623572,
+      "t20_average_return": 0.024050789136235713,
       "t20_positive_rate": 0.5654048873981792,
       "top_candidates": []
     },
@@ -906,7 +906,7 @@
       "total": 6
     },
     "technology": {
-      "score": 47.5015272274294,
+      "score": 47.49599065440991,
       "band": "正常",
       "available": 4,
       "total": 4
@@ -914,13 +914,13 @@
     "as_of_date": ""
   },
   "opportunity_tracking": {
-    "tracked_count": 1803,
+    "tracked_count": 1840,
     "active_count": 810,
     "realizing_count": 417,
     "accelerating_count": 108,
     "weak_count": 962,
     "expired_count": 30,
-    "avg_current_return": -0.009660015700165137,
+    "avg_current_return": -0.009660015700165135,
     "avg_max_return": 0.11939203809658472,
     "avg_max_drawdown": -0.14816544195340361,
     "top_sector": "林业",
