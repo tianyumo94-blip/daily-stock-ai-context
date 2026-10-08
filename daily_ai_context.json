@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08 18:33:42",
+  "generated_at": "2026-10-08 19:50:48",
   "signal_date": "2026-10-07",
-  "market_data_end_date": "2026-09-30",
+  "market_data_end_date": "2026-10-08",
   "source": "A股回退展示：recommend_20261007.json（最新数据日 2026-10-08；近30天最近有候选）",
   "risk_note": "仅供个人研究与复盘，不构成投资建议。",
   "overview": {
@@ -96,10 +96,10 @@
       "confirmed_count": 0,
       "average_score": null,
       "t5_sample_size": 2793,
-      "t5_average_return": 0.008317154461993293,
-      "t5_positive_rate": 0.5155746509129968,
+      "t5_average_return": 0.008223529645963469,
+      "t5_positive_rate": 0.5152166129609739,
       "t20_sample_size": 2127,
-      "t20_average_return": 0.022336501723795178,
+      "t20_average_return": 0.022356064795669373,
       "t20_positive_rate": 0.5571227080394923,
       "top_candidates": []
     },
