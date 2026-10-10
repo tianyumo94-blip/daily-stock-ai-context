@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10 09:43:56",
+  "generated_at": "2026-10-10 17:47:21",
   "signal_date": "2026-10-09",
   "market_data_end_date": "2026-10-09",
   "source": "dashboard_live.csv",
@@ -10,9 +10,9 @@
     "max_score": 1.311,
     "dual_signal_count": 33,
     "sector_count": 22,
-    "avg_dd60": 0.29021517496415067,
+    "avg_dd60": 0.2897919218587059,
     "avg_vol20": 0.02309533868401738,
-    "avg_chip_winner": 0.222344138246885
+    "avg_chip_winner": 0.22235132554136255
   },
   "top_sectors": [
     {
@@ -1126,14 +1126,14 @@
     "as_of_date": ""
   },
   "opportunity_tracking": {
-    "tracked_count": 1880,
+    "tracked_count": 1918,
     "active_count": 818,
     "realizing_count": 433,
     "accelerating_count": 120,
     "weak_count": 988,
     "expired_count": 34,
     "avg_current_return": -0.01069659458288056,
-    "avg_max_return": 0.12056039222533549,
+    "avg_max_return": 0.12056039222533547,
     "avg_max_drawdown": -0.15426763508681074,
     "top_sector": "装修装饰",
     "top_sector_avg_return": 0.24505635757395
