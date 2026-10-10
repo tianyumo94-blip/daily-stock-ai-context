@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09 17:40:37",
+  "generated_at": "2026-10-10 09:43:56",
   "signal_date": "2026-10-09",
   "market_data_end_date": "2026-10-09",
   "source": "dashboard_live.csv",
@@ -10,9 +10,9 @@
     "max_score": 1.311,
     "dual_signal_count": 33,
     "sector_count": 22,
-    "avg_dd60": 0.2897919218587059,
-    "avg_vol20": 0.023095338684017377,
-    "avg_chip_winner": 0.22235132554136255
+    "avg_dd60": 0.29021517496415067,
+    "avg_vol20": 0.02309533868401738,
+    "avg_chip_winner": 0.222344138246885
   },
   "top_sectors": [
     {
@@ -886,10 +886,10 @@
       "confirmed_count": 39,
       "average_score": 0.7155076923076923,
       "t5_sample_size": 2859,
-      "t5_average_return": 0.007452472189540149,
+      "t5_average_return": 0.007452472189540151,
       "t5_positive_rate": 0.5127667016439315,
       "t20_sample_size": 2140,
-      "t20_average_return": 0.02220448552900735,
+      "t20_average_return": 0.022204485529007355,
       "t20_positive_rate": 0.5565420560747664,
       "top_candidates": [
         {
@@ -1112,13 +1112,13 @@
   ],
   "market_risk": {
     "overall": {
-      "score": 41.737590668597306,
+      "score": 39.51641272373515,
       "band": "正常",
       "available": 6,
       "total": 6
     },
     "technology": {
-      "score": 39.86555500073665,
+      "score": 38.94488414815049,
       "band": "正常",
       "available": 4,
       "total": 4
