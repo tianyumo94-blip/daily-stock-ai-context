@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16 17:59:13",
+  "generated_at": "2026-10-17 09:50:40",
   "signal_date": "2026-10-16",
   "market_data_end_date": "2026-10-16",
   "source": "dashboard_live.csv",
@@ -972,7 +972,7 @@
       "total": 6
     },
     "technology": {
-      "score": 26.079928645822058,
+      "score": 26.22862509760371,
       "band": "低风险",
       "available": 4,
       "total": 4
