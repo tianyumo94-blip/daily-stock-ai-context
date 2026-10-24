@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23 18:39:05",
+  "generated_at": "2026-10-24 09:48:10",
   "signal_date": "2026-10-23",
   "market_data_end_date": "2026-10-23",
   "source": "dashboard_live.csv",
@@ -11,8 +11,8 @@
     "dual_signal_count": 5,
     "sector_count": 38,
     "avg_dd60": 0.25015028591213506,
-    "avg_vol20": 0.028870389692319025,
-    "avg_chip_winner": 0.34976739439253923
+    "avg_vol20": 0.028870389692319035,
+    "avg_chip_winner": 0.3497692886806958
   },
   "top_sectors": [
     {
@@ -914,10 +914,10 @@
       "confirmed_count": 11,
       "average_score": 0.9321299999999999,
       "t5_sample_size": 961,
-      "t5_average_return": 0.01589488678935342,
+      "t5_average_return": 0.015894886789353416,
       "t5_positive_rate": 0.5504682622268471,
       "t20_sample_size": 923,
-      "t20_average_return": 0.004676760150597226,
+      "t20_average_return": 0.0046767601505972225,
       "t20_positive_rate": 0.52329360780065,
       "top_candidates": [
         {
@@ -994,7 +994,7 @@
       "confirmed_count": 19,
       "average_score": 0.963736842105263,
       "t5_sample_size": 993,
-      "t5_average_return": 0.007502638250048247,
+      "t5_average_return": 0.0075026382500482484,
       "t5_positive_rate": 0.486404833836858,
       "t20_sample_size": 953,
       "t20_average_return": -0.010251235751196854,
@@ -1316,7 +1316,7 @@
       "total": 6
     },
     "technology": {
-      "score": 39.71847741383549,
+      "score": 39.644265060280325,
       "band": "正常",
       "available": 4,
       "total": 4
