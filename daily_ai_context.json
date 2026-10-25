@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25 16:43:05",
+  "generated_at": "2026-10-25 17:57:13",
   "signal_date": "2026-10-23",
   "market_data_end_date": "2026-10-23",
   "source": "dashboard_live.csv",
@@ -12,7 +12,7 @@
     "sector_count": 38,
     "avg_dd60": 0.25015028591213506,
     "avg_vol20": 0.028870389692319035,
-    "avg_chip_winner": 0.3497692886806958
+    "avg_chip_winner": 0.34976739439253923
   },
   "top_sectors": [
     {
@@ -889,7 +889,7 @@
       "t5_average_return": 0.0038653059604651934,
       "t5_positive_rate": 0.4927349047465289,
       "t20_sample_size": 2587,
-      "t20_average_return": 0.008275667873554835,
+      "t20_average_return": 0.008278686096507086,
       "t20_positive_rate": 0.5017394665635871,
       "top_candidates": []
     },
