@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30 17:59:05",
+  "generated_at": "2026-10-31 12:06:21",
   "signal_date": "2026-10-30",
   "market_data_end_date": "2026-10-30",
   "source": "dashboard_live.csv",
@@ -11,8 +11,8 @@
     "dual_signal_count": 0,
     "sector_count": 43,
     "avg_dd60": 0.2461412982601575,
-    "avg_vol20": 0.027329551594590475,
-    "avg_chip_winner": 0.35606165442302257
+    "avg_vol20": 0.027329551594590495,
+    "avg_chip_winner": 0.3559888574476621
   },
   "top_sectors": [
     {
@@ -722,7 +722,7 @@
       "最新价": "16.33",
       "近60日最大回撤": "14.97%",
       "波动率": "4.28%",
-      "筹码胜率": "30.59%",
+      "筹码胜率": "29.42%",
       "入选理由": "回撤进入黄金区 / 重新站上50% / 阳线收复 / MA20/MA60趋势支持"
     },
     {
@@ -994,10 +994,10 @@
       "confirmed_count": 20,
       "average_score": 0.8869250000000001,
       "t5_sample_size": 1129,
-      "t5_average_return": 0.0005051713159807635,
+      "t5_average_return": 0.0005051713159807627,
       "t5_positive_rate": 0.4508414526129318,
       "t20_sample_size": 973,
-      "t20_average_return": -0.01162487209651424,
+      "t20_average_return": -0.011624872096514239,
       "t20_positive_rate": 0.37410071942446044,
       "top_candidates": [
         {
@@ -1157,7 +1157,7 @@
       "t5_average_return": -0.012030785688441055,
       "t5_positive_rate": 0.3717948717948718,
       "t20_sample_size": 699,
-      "t20_average_return": -0.010513057111654163,
+      "t20_average_return": -0.01051305711165416,
       "t20_positive_rate": 0.39198855507868385,
       "top_candidates": [
         {
@@ -1316,7 +1316,7 @@
       "total": 6
     },
     "technology": {
-      "score": 32.79751610140242,
+      "score": 30.33297441563493,
       "band": "正常",
       "available": 4,
       "total": 4
