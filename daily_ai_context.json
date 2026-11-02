@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01 17:41:31",
+  "generated_at": "2026-11-02 09:50:08",
   "signal_date": "2026-10-30",
   "market_data_end_date": "2026-10-30",
   "source": "dashboard_live.csv",
@@ -12,7 +12,7 @@
     "sector_count": 43,
     "avg_dd60": 0.2461412982601575,
     "avg_vol20": 0.027329551594590495,
-    "avg_chip_winner": 0.35606165442302257
+    "avg_chip_winner": 0.3559888574476621
   },
   "top_sectors": [
     {
@@ -722,7 +722,7 @@
       "最新价": "16.33",
       "近60日最大回撤": "14.97%",
       "波动率": "4.28%",
-      "筹码胜率": "30.59%",
+      "筹码胜率": "29.42%",
       "入选理由": "回撤进入黄金区 / 重新站上50% / 阳线收复 / MA20/MA60趋势支持"
     },
     {
@@ -886,11 +886,11 @@
       "confirmed_count": 0,
       "average_score": null,
       "t5_sample_size": 3217,
-      "t5_average_return": 0.00346637239745427,
-      "t5_positive_rate": 0.48585638793907365,
+      "t5_average_return": 0.0006538591838068065,
+      "t5_positive_rate": 0.4759092322039167,
       "t20_sample_size": 2859,
-      "t20_average_return": -0.004657032817673253,
-      "t20_positive_rate": 0.4627492130115425,
+      "t20_average_return": -0.004054387091968556,
+      "t20_positive_rate": 0.4651976215459951,
       "top_candidates": []
     },
     {
@@ -914,11 +914,11 @@
       "confirmed_count": 4,
       "average_score": 0.9321299999999999,
       "t5_sample_size": 1094,
-      "t5_average_return": 0.010440494191320747,
-      "t5_positive_rate": 0.5255941499085923,
+      "t5_average_return": 0.007253167150589816,
+      "t5_positive_rate": 0.5109689213893968,
       "t20_sample_size": 942,
-      "t20_average_return": 0.0031108202054283504,
-      "t20_positive_rate": 0.5191082802547771,
+      "t20_average_return": 0.0038480783552709077,
+      "t20_positive_rate": 0.5286624203821656,
       "top_candidates": [
         {
           "stock_code": "001316.SZ",
@@ -994,11 +994,11 @@
       "confirmed_count": 20,
       "average_score": 0.8869250000000001,
       "t5_sample_size": 1129,
-      "t5_average_return": 0.0005051713159807627,
-      "t5_positive_rate": 0.4508414526129318,
+      "t5_average_return": -0.0038263798174491812,
+      "t5_positive_rate": 0.43135518157661645,
       "t20_sample_size": 973,
-      "t20_average_return": -0.01162487209651424,
-      "t20_positive_rate": 0.37410071942446044,
+      "t20_average_return": -0.010290660128672064,
+      "t20_positive_rate": 0.38437821171634123,
       "top_candidates": [
         {
           "stock_code": "688073.SH",
@@ -1157,7 +1157,7 @@
       "t5_average_return": -0.012030785688441055,
       "t5_positive_rate": 0.3717948717948718,
       "t20_sample_size": 699,
-      "t20_average_return": -0.010513057111654161,
+      "t20_average_return": -0.01051305711165416,
       "t20_positive_rate": 0.39198855507868385,
       "top_candidates": [
         {
@@ -1310,7 +1310,7 @@
   ],
   "market_risk": {
     "overall": {
-      "score": 51.11384245122251,
+      "score": 50.09650660549231,
       "band": "偏热",
       "available": 6,
       "total": 6
@@ -1331,8 +1331,8 @@
     "weak_count": 1981,
     "expired_count": 17,
     "avg_current_return": -0.11454596319475738,
-    "avg_max_return": 0.11247361499178926,
-    "avg_max_drawdown": -0.21503300613697712,
+    "avg_max_return": 0.11255549922431084,
+    "avg_max_drawdown": -0.21508461232257597,
     "top_sector": "银行",
     "top_sector_avg_return": 0.07673325792688394
   },
