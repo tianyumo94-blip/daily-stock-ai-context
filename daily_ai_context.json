@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03 18:18:48",
+  "generated_at": "2026-11-03 19:48:52",
   "signal_date": "2026-11-03",
   "market_data_end_date": "2026-11-03",
   "source": "dashboard_live.csv",
@@ -1310,7 +1310,7 @@
   ],
   "market_risk": {
     "overall": {
-      "score": 43.57733301921966,
+      "score": 41.432747417283785,
       "band": "正常",
       "available": 6,
       "total": 6
