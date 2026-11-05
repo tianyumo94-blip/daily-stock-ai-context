@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04 19:49:49",
+  "generated_at": "2026-11-05 09:48:16",
   "signal_date": "2026-11-04",
   "market_data_end_date": "2026-11-04",
   "source": "dashboard_live.csv",
@@ -886,11 +886,11 @@
       "confirmed_count": 0,
       "average_score": null,
       "t5_sample_size": 3217,
-      "t5_average_return": 0.003212512795580944,
-      "t5_positive_rate": 0.48523469070562636,
+      "t5_average_return": 0.0006538591838068065,
+      "t5_positive_rate": 0.4759092322039167,
       "t20_sample_size": 2899,
-      "t20_average_return": -0.0062098153920853395,
-      "t20_positive_rate": 0.45912383580545013,
+      "t20_average_return": -0.005867993282193816,
+      "t20_positive_rate": 0.4611935150051742,
       "top_candidates": []
     },
     {
@@ -914,11 +914,11 @@
       "confirmed_count": 15,
       "average_score": 0.9321299999999999,
       "t5_sample_size": 1153,
-      "t5_average_return": 0.009861670354808333,
-      "t5_positive_rate": 0.5229835212489159,
+      "t5_average_return": 0.0068374415754851444,
+      "t5_positive_rate": 0.5091066782307025,
       "t20_sample_size": 942,
-      "t20_average_return": 0.0031108202054283504,
-      "t20_positive_rate": 0.5191082802547771,
+      "t20_average_return": 0.003848078355270911,
+      "t20_positive_rate": 0.5286624203821656,
       "top_candidates": [
         {
           "stock_code": "001316.SZ",
@@ -994,11 +994,11 @@
       "confirmed_count": 20,
       "average_score": 0.9301750000000002,
       "t5_sample_size": 1187,
-      "t5_average_return": -0.0016313754091506788,
-      "t5_positive_rate": 0.44313395113732096,
+      "t5_average_return": -0.005751275349877221,
+      "t5_positive_rate": 0.42459983150800334,
       "t20_sample_size": 973,
-      "t20_average_return": -0.011624872096514237,
-      "t20_positive_rate": 0.37410071942446044,
+      "t20_average_return": -0.010290660128672064,
+      "t20_positive_rate": 0.38437821171634123,
       "top_candidates": [
         {
           "stock_code": "603037.SH",
@@ -1154,10 +1154,10 @@
       "confirmed_count": 0,
       "average_score": 0.7672500000000001,
       "t5_sample_size": 918,
-      "t5_average_return": -0.013030233727217245,
+      "t5_average_return": -0.013030233727217243,
       "t5_positive_rate": 0.37145969498910675,
       "t20_sample_size": 699,
-      "t20_average_return": -0.010513057111654161,
+      "t20_average_return": -0.010513057111654163,
       "t20_positive_rate": 0.39198855507868385,
       "top_candidates": [
         {
@@ -1310,13 +1310,13 @@
   ],
   "market_risk": {
     "overall": {
-      "score": 36.94981946533226,
+      "score": 39.15619713072461,
       "band": "正常",
       "available": 6,
       "total": 6
     },
     "technology": {
-      "score": 34.57753161962789,
+      "score": 32.86570649873911,
       "band": "正常",
       "available": 4,
       "total": 4
@@ -1331,8 +1331,8 @@
     "weak_count": 1789,
     "expired_count": 18,
     "avg_current_return": -0.07017119600703553,
-    "avg_max_return": 0.11168654282235976,
-    "avg_max_drawdown": -0.21022682858089678,
+    "avg_max_return": 0.11174718158297625,
+    "avg_max_drawdown": -0.21026344457829188,
     "top_sector": "装修装饰",
     "top_sector_avg_return": 0.2684691338288001
   },
