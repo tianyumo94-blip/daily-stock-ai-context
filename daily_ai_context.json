@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07 17:44:29",
+  "generated_at": "2026-11-08 09:38:33",
   "signal_date": "2026-11-06",
   "market_data_end_date": "2026-11-06",
   "source": "dashboard_live.csv",
@@ -12,7 +12,7 @@
     "sector_count": 48,
     "avg_dd60": 0.2673666722466706,
     "avg_vol20": 0.028825918706063592,
-    "avg_chip_winner": 0.37024304622695564
+    "avg_chip_winner": 0.3700794444503808
   },
   "top_sectors": [
     {
@@ -994,10 +994,10 @@
       "confirmed_count": 11,
       "average_score": 0.8461350000000001,
       "t5_sample_size": 1267,
-      "t5_average_return": -0.000852518576735563,
+      "t5_average_return": -0.0008525185767355644,
       "t5_positive_rate": 0.44909234411996846,
       "t20_sample_size": 973,
-      "t20_average_return": -0.01162487209651424,
+      "t20_average_return": -0.011624872096514237,
       "t20_positive_rate": 0.37410071942446044,
       "top_candidates": [
         {
