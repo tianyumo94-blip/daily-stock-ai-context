@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11 19:49:32",
+  "generated_at": "2026-11-11 21:20:28",
   "signal_date": "2026-11-11",
   "market_data_end_date": "2026-11-11",
   "source": "dashboard_live.csv",
@@ -886,11 +886,11 @@
       "confirmed_count": 0,
       "average_score": null,
       "t5_sample_size": 3217,
-      "t5_average_return": 0.0021935498961269386,
+      "t5_average_return": 0.0022025043830284433,
       "t5_positive_rate": 0.48057196145477155,
       "t20_sample_size": 3017,
-      "t20_average_return": -0.007585110573285093,
-      "t20_positive_rate": 0.45575074577394764,
+      "t20_average_return": -0.007601478725770802,
+      "t20_positive_rate": 0.45541929068611203,
       "top_candidates": []
     },
     {
