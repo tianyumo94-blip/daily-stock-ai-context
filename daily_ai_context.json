@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11 17:42:34",
+  "generated_at": "2026-11-11 19:49:32",
   "signal_date": "2026-11-11",
   "market_data_end_date": "2026-11-11",
   "source": "dashboard_live.csv",
@@ -11,7 +11,7 @@
     "dual_signal_count": 0,
     "sector_count": 41,
     "avg_dd60": 0.26920894920999705,
-    "avg_vol20": 0.03287874300363191,
+    "avg_vol20": 0.03287874300363192,
     "avg_chip_winner": 0.4042776082813916
   },
   "top_sectors": [
