@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13 18:21:56",
+  "generated_at": "2026-11-14 09:34:37",
   "signal_date": "2026-11-13",
   "market_data_end_date": "2026-11-13",
   "source": "dashboard_live.csv",
@@ -914,10 +914,10 @@
       "confirmed_count": 6,
       "average_score": 0.9307400000000001,
       "t5_sample_size": 1368,
-      "t5_average_return": 0.008584325870504358,
+      "t5_average_return": 0.008584325870504356,
       "t5_positive_rate": 0.5073099415204678,
       "t20_sample_size": 960,
-      "t20_average_return": 0.002959533013275617,
+      "t20_average_return": 0.0029595330132756153,
       "t20_positive_rate": 0.5239583333333333,
       "top_candidates": [
         {
@@ -994,10 +994,10 @@
       "confirmed_count": 9,
       "average_score": 0.8133999999999999,
       "t5_sample_size": 1347,
-      "t5_average_return": -0.001360605956628886,
+      "t5_average_return": -0.0013606059566288848,
       "t5_positive_rate": 0.4491462509279881,
       "t20_sample_size": 973,
-      "t20_average_return": -0.010862711938096672,
+      "t20_average_return": -0.01086271193809667,
       "t20_positive_rate": 0.37307297019527236,
       "top_candidates": [
         {
@@ -1154,7 +1154,7 @@
       "confirmed_count": 0,
       "average_score": 0.80615,
       "t5_sample_size": 1084,
-      "t5_average_return": -0.0066779037588464984,
+      "t5_average_return": -0.006677903758846498,
       "t5_positive_rate": 0.4252767527675277,
       "t20_sample_size": 701,
       "t20_average_return": -0.010475387542272164,
@@ -1234,7 +1234,7 @@
       "confirmed_count": 20,
       "average_score": 0.8349,
       "t5_sample_size": 409,
-      "t5_average_return": -0.01605801209003851,
+      "t5_average_return": -0.016058012090038515,
       "t5_positive_rate": 0.4034229828850856,
       "t20_sample_size": 34,
       "t20_average_return": -0.09981169790643572,
@@ -1316,7 +1316,7 @@
       "total": 6
     },
     "technology": {
-      "score": 37.336624186339144,
+      "score": 36.0160706308818,
       "band": "正常",
       "available": 4,
       "total": 4
