@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20 17:43:59",
+  "generated_at": "2026-11-21 09:39:28",
   "signal_date": "2026-11-20",
   "market_data_end_date": "2026-11-20",
   "source": "dashboard_live.csv",
@@ -11,7 +11,7 @@
     "dual_signal_count": 0,
     "sector_count": 43,
     "avg_dd60": 0.26572317694233866,
-    "avg_vol20": 0.030783105836585358,
+    "avg_vol20": 0.030783105836585372,
     "avg_chip_winner": 0.3516204334377208
   },
   "top_sectors": [
@@ -997,7 +997,7 @@
       "t5_average_return": -0.012977620830082746,
       "t5_positive_rate": 0.41359223300970877,
       "t20_sample_size": 1075,
-      "t20_average_return": -0.017241187738043215,
+      "t20_average_return": -0.01724118773804321,
       "t20_positive_rate": 0.36372093023255814,
       "top_candidates": [
         {
@@ -1157,7 +1157,7 @@
       "t5_average_return": -0.01868436880849004,
       "t5_positive_rate": 0.3998435054773083,
       "t20_sample_size": 803,
-      "t20_average_return": -0.017082360828233778,
+      "t20_average_return": -0.01708236082823378,
       "t20_positive_rate": 0.3723536737235367,
       "top_candidates": [
         {
@@ -1310,13 +1310,13 @@
   ],
   "market_risk": {
     "overall": {
-      "score": 45.33452057826612,
+      "score": 45.283690108621215,
       "band": "正常",
       "available": 6,
       "total": 6
     },
     "technology": {
-      "score": 27.69772912824361,
+      "score": 26.400245573016175,
       "band": "低风险",
       "available": 4,
       "total": 4
