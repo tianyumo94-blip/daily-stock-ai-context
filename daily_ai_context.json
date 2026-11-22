@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21 17:40:51",
+  "generated_at": "2026-11-22 09:38:06",
   "signal_date": "2026-11-20",
   "market_data_end_date": "2026-11-20",
   "source": "dashboard_live.csv",
@@ -914,10 +914,10 @@
       "confirmed_count": 1,
       "average_score": 0.9303368421052632,
       "t5_sample_size": 1509,
-      "t5_average_return": 0.0015550989025173577,
+      "t5_average_return": 0.0015550989025173564,
       "t5_positive_rate": 0.47514910536779326,
       "t20_sample_size": 1094,
-      "t20_average_return": -0.006190136137964234,
+      "t20_average_return": -0.006190136137964231,
       "t20_positive_rate": 0.49177330895795246,
       "top_candidates": [
         {
@@ -994,7 +994,7 @@
       "confirmed_count": 9,
       "average_score": 0.8266899999999999,
       "t5_sample_size": 1545,
-      "t5_average_return": -0.012977620830082746,
+      "t5_average_return": -0.01297762083008275,
       "t5_positive_rate": 0.41359223300970877,
       "t20_sample_size": 1075,
       "t20_average_return": -0.01724118773804321,
@@ -1154,10 +1154,10 @@
       "confirmed_count": 0,
       "average_score": 0.6403000000000001,
       "t5_sample_size": 1278,
-      "t5_average_return": -0.01868436880849004,
+      "t5_average_return": -0.018684368808490042,
       "t5_positive_rate": 0.3998435054773083,
       "t20_sample_size": 803,
-      "t20_average_return": -0.01708236082823378,
+      "t20_average_return": -0.017082360828233778,
       "t20_positive_rate": 0.3723536737235367,
       "top_candidates": [
         {
@@ -1234,7 +1234,7 @@
       "confirmed_count": 20,
       "average_score": 0.7098000000000001,
       "t5_sample_size": 609,
-      "t5_average_return": -0.049787382980641275,
+      "t5_average_return": -0.04978738298064128,
       "t5_positive_rate": 0.29064039408866993,
       "t20_sample_size": 141,
       "t20_average_return": -0.0989220602214871,
