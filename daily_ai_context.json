@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27 17:47:33",
+  "generated_at": "2026-11-28 09:45:27",
   "signal_date": "2026-11-27",
   "market_data_end_date": "2026-11-27",
   "source": "dashboard_live.csv",
@@ -10,9 +10,9 @@
     "max_score": 1.311,
     "dual_signal_count": 3,
     "sector_count": 47,
-    "avg_dd60": 0.26662293406861326,
-    "avg_vol20": 0.030056300815860124,
-    "avg_chip_winner": 0.3649692084353528
+    "avg_dd60": 0.26664343042510436,
+    "avg_vol20": 0.030118062161886342,
+    "avg_chip_winner": 0.3648758748661471
   },
   "top_sectors": [
     {
@@ -914,10 +914,10 @@
       "confirmed_count": 15,
       "average_score": 0.9355000000000001,
       "t5_sample_size": 1646,
-      "t5_average_return": 0.0005375857172241033,
+      "t5_average_return": 0.0005375857172241022,
       "t5_positive_rate": 0.46962332928311057,
       "t20_sample_size": 1231,
-      "t20_average_return": -0.010763290186559549,
+      "t20_average_return": -0.010763290186559553,
       "t20_positive_rate": 0.47278635255889523,
       "top_candidates": [
         {
@@ -994,10 +994,10 @@
       "confirmed_count": 20,
       "average_score": 0.9243450000000001,
       "t5_sample_size": 1685,
-      "t5_average_return": -0.010666908377128024,
+      "t5_average_return": -0.010666908377128026,
       "t5_positive_rate": 0.4172106824925816,
       "t20_sample_size": 1207,
-      "t20_average_return": -0.030294483673728882,
+      "t20_average_return": -0.030294483673728875,
       "t20_positive_rate": 0.34134217067108535,
       "top_candidates": [
         {
@@ -1157,7 +1157,7 @@
       "t5_average_return": -0.021809324050203614,
       "t5_positive_rate": 0.38787023977433005,
       "t20_sample_size": 941,
-      "t20_average_return": -0.030521337185477813,
+      "t20_average_return": -0.030521337185477816,
       "t20_positive_rate": 0.34006376195536664,
       "top_candidates": [
         {
@@ -1316,7 +1316,7 @@
       "total": 6
     },
     "technology": {
-      "score": 35.07889408478977,
+      "score": 35.740041269900615,
       "band": "正常",
       "available": 4,
       "total": 4
